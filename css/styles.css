@@ -716,7 +716,7 @@ div.foorer.container {
 }
 
 .form-section{
-    margin: 72px 24px 24px 24px;
+    padding: 72px 24px 24px 24px;
 }
 
 .form {
@@ -727,6 +727,9 @@ div.foorer.container {
     padding: 0;
 }
 .form-head-text {
+    margin-top: 0;
+    margin-bottom: 16px;
+    
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
