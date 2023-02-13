@@ -675,12 +675,6 @@ div.foorer.container {
 }
 .modal{
     position: absolute;
-
-    /* Відтворено з Figma */
-   
-    /* top: 88px;
-    left: 50%;
-    transform: translateX(-50%); */
  
     /* Потрібно по завданню  */
     top: 50%;
@@ -721,16 +715,18 @@ div.foorer.container {
     fill: currentColor;
 }
 
+.form-section{
+    margin: 72px 24px 24px 24px;
+}
+
 .form {
-    width: 360px;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
 
     padding: 0;
 }
 .form-head-text {
-    margin-top: 72px;
-
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
